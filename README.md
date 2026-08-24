@@ -156,19 +156,21 @@ Make sure you have **Node.js** (v18 or higher) installed on your system.
 
 ---
 
-## 💖 Thank You for Visiting!
+---
 
-> *"Thank you so much for taking the time to explore KIXTRA Studio!"* 🌟
+## 💖 Thank You for Customizing at KIXTRA Studio!
 
-Taking your precious time to inspect this project, walk through the features, and review my code means the world to me. Every single repository I build is an opportunity to learn, innovate, and push the boundaries of software engineering.
+> *"Pushing the boundaries of 3D interactive web customizers!"* 👟
 
-- 🌟 **Enjoyed the project?** Feel free to leave a **Star** on this repository—your support provides immense motivation to keep building exciting projects!
-- 📬 **Let's Connect:** I am always open to constructive feedback, technical discussions, and exciting engineering opportunities. Feel free to explore my other repositories or connect with me directly on [GitHub](https://github.com/SriniwasAwasthi).
+Thank you for checking out KIXTRA Studio! Creating a real-time interactive 3D shoe design experience with custom colorway mapping, dynamic typography, and packaging previews was an exhilarating deep-dive into creative web engineering. Your time and inspection are immensely valued.
 
-*Wishing you a wonderful day ahead, and thank you once again for stopping by!* ✨
+- 🌟 **Designed something unique?** Drop a star on this repository to support 3D web experimentation!
+- 📬 **Let's Connect:** Always keen to discuss 3D WebGL workflows, interactive canvas customizers, and modern UI. Reach out on [GitHub](https://github.com/SriniwasAwasthi)!
+
+*Stay creative, step forward with style, and have a fantastic day!* ✨
 
 ---
 
 <div align="center">
-  <sub>Crafted with passion by <a href="https://github.com/SriniwasAwasthi">Sriniwas Awasthi</a>.</sub>
+  <sub>Crafted for sneakerheads and 3D web enthusiasts by <a href="https://github.com/SriniwasAwasthi">Sriniwas Awasthi</a>.</sub>
 </div>
