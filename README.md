@@ -154,12 +154,21 @@ Make sure you have **Node.js** (v18 or higher) installed on your system.
 
 ---
 
+---
+
 ## 💖 Thank You for Visiting!
 
-✨ Thank you so much for dropping by! 💖  
-Taking your precious time to analyze this project, read through the features, and view my account is an absolute honor. You rock! 🚀🌟  
-Having you visit my account, explore this repository, and take the time to inspect my work truly means the world to me. Your curiosity and support mean so much! 🌸💫
+> *"Thank you so much for taking the time to explore KIXTRA Studio!"* 🌟
 
-✨ May your day be as bright and wonderful as your support!  
-🌟 Every single view, star, and moment of attention gives me so much motivation to keep building cool things.  
-💖 I hope this project brought a smile to your face and inspired your own creative journey! Thank you again for stopping by—you are truly awesome! 🌺✨
+Taking your precious time to inspect this project, walk through the features, and review my code means the world to me. Every single repository I build is an opportunity to learn, innovate, and push the boundaries of software engineering.
+
+- 🌟 **Enjoyed the project?** Feel free to leave a **Star** on this repository—your support provides immense motivation to keep building exciting projects!
+- 📬 **Let's Connect:** I am always open to constructive feedback, technical discussions, and exciting engineering opportunities. Feel free to explore my other repositories or connect with me directly on [GitHub](https://github.com/SriniwasAwasthi).
+
+*Wishing you a wonderful day ahead, and thank you once again for stopping by!* ✨
+
+---
+
+<div align="center">
+  <sub>Crafted with passion by <a href="https://github.com/SriniwasAwasthi">Sriniwas Awasthi</a>.</sub>
+</div>
