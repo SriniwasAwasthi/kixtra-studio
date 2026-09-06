@@ -75,15 +75,6 @@ Built using **React 19, Vite, and Tailwind CSS**, the application runs smoothly 
 
 ## 🕹️ How Can a Person Use this Website?
 
-```mermaid
-flowchart LR
-    A[Browse Catalog] --> B[Launch 3D Studio]
-    B --> C[Customize Colors & Embroidery]
-    C --> D[Select Size & Add to Bag]
-    D --> E[Apply Promo & Checkout]
-    E --> F[Order Confirmation]
-```
-
 1. **Explore the Collection**: Scroll through the homepage carousel, catalog filters, or spotlight drops.
 2. **Launch 3D Studio**: Click **"Customize 1-of-1"** on any shoe card or trend preset to open the customizer.
 3. **Craft Your Design**:
@@ -111,6 +102,17 @@ flowchart LR
 </details>
 
 ---
+
+## 🏛️ System Architecture
+
+```mermaid
+graph LR
+    User["👤 Designer"] --> Canvas["👟 Three.js 3D Viewport"]
+    User --> Palette["🎨 Color & Texture Picker"]
+    Palette --> Shaders["✨ Custom Material & Lighting Shaders"]
+    Shaders --> Canvas
+    Canvas --> Export["📸 4K Snapshot & Spec Sheet Export"]
+```
 
 ## 🛠️ Tech Stack & Architecture
 
@@ -158,19 +160,16 @@ Make sure you have **Node.js** (v18 or higher) installed on your system.
 
 ---
 
-## 💖 Thank You for Customizing at KIXTRA Studio!
-
-> *"Pushing the boundaries of 3D interactive web customizers!"* 👟
-
-Thank you for checking out KIXTRA Studio! Creating a real-time interactive 3D shoe design experience with custom colorway mapping, dynamic typography, and packaging previews was an exhilarating deep-dive into creative web engineering. Your time and inspection are immensely valued.
-
-- 🌟 **Designed something unique?** Drop a star on this repository to support 3D web experimentation!
-- 📬 **Let's Connect:** Always keen to discuss 3D WebGL workflows, interactive canvas customizers, and modern UI. Reach out on [GitHub](https://github.com/SriniwasAwasthi)!
-
-*Stay creative, step forward with style, and have a fantastic day!* ✨
-
 ---
 
+## 💖 Thank You for Visiting & Exploring 👟 KIXTRA /// STUDIO!
+
+> *"Thank you for taking the time to explore this project! Continuous learning, clean craftsmanship, and solving real-world challenges through elegant software are at the core of my developer journey."* 🚀
+
+* 🌟 **Enjoyed this project?** If you found this repository interesting or helpful, please consider giving it a **Star**!
+* 📬 **Let's Connect & Collaborate:** I am actively seeking engineering opportunities, impactful internships, and open-source collaborations. Feel free to connect via [GitHub](https://github.com/SriniwasAwasthi) or [Email](mailto:sriawasthi164@gmail.com).
+
+---
 <div align="center">
-  <sub>Crafted for sneakerheads and 3D web enthusiasts by <a href="https://github.com/SriniwasAwasthi">Sriniwas Awasthi</a>.</sub>
+  <sub>Designed & Crafted with Passion by <a href="https://github.com/SriniwasAwasthi"><strong>Sriniwas Awasthi</strong></a> • Continuous Learner & Software Engineer</sub>
 </div>
