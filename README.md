@@ -147,7 +147,7 @@ Make sure you have **Node.js** (v18 or higher) installed on your system.
    ```bash
    npm run dev
    ```
-   Open your browser at `http://localhost:5173/` 🚀
+   Open your browser 🚀
 
 4. **Build for Production:**
    ```bash
